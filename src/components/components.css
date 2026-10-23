@@ -1,0 +1,22 @@
+/* Border around the user card and product card */
+.card {
+  border: 1px solid rgb(85, 85, 85);
+  padding: 16px;
+  margin: 8px;
+  background: pink;
+}
+
+/* Alert colors  */
+.alert {
+  padding: 12px;
+  margin-bottom: 12px;
+  background: rgb(199, 253, 231);
+}
+
+/* Image Sizing */ 
+img {
+    max-width: 15%;
+    height: auto;
+     border-radius: 50%;
+     object-fit: fill;
+}
